@@ -1,12 +1,10 @@
-## Hi there 👋
+# .github
+# Welcone to OpenROSBotix
+Welcome to my organization named OpenROSBotix. This organization contains a variety of common ROS and ROS2 packages I build for my robots. Also you find open source plans and instructions to build
+one of my ROS-enabled open source robots.
 
-<!--
+[DOCUMENTATION](https://openrosbotix.github.io)
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+# Open source robots
+Currently, I'm building a lawn mower. You can print the entire chassis by yourself. For motors, I use hoverboard motors and their controllers as motor driver. More details can be found here
+[HOVERMOWER](https://hovermower.github.io)
